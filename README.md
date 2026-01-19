@@ -6,8 +6,6 @@
   <p align="center">
     A community-driven platform for building and sharing AI-powered desktop companions.
     <br />
-    <a href="https://github.com/eigent-ai/eigent">Inspired by eigent-ai/eigent</a>
-    ·
     <a href="https://github.com/your-username/the-open-source-coworkers-for-your-desktop/issues">Report Bug</a>
     ·
     <a href="https://github.com/your-username/the-open-source-coworkers-for-your-desktop/issues">Request Feature</a>
